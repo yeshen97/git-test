@@ -7,5 +7,7 @@ public class GitTest {
         System.out.printf( " git3");
          System.out.printf( " git4");
          System.out.printf( " git5");
+        System.out.printf( " git6");
+        System.out.printf( " git7");
     }
 }
